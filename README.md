@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/sqle157/typemaster-pre-launch-landing-page)
-- Live Site URL: [Live Demo](https://sqle157.github.io/typemaster-pre-launch-landing-page)
+- Solution URL: [Github](https://moondev0.github.io/type-master-landing-page/)
+- Live Site URL: [Live Demo](https://moondev0.github.io/type-master-landing-page/)
 
 ## Author
 
