@@ -28,5 +28,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Sang Le](https://github.com/sqle157)
-- Frontend Mentor - [@sqle157](https://www.frontendmentor.io/profile/sqle157)
+- Website - (https://github.com/moondev0)
+- Frontend Mentor - [@moondev0](https://www.frontendmentor.io/profile/moondev0)
